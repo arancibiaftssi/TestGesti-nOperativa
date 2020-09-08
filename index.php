@@ -34,41 +34,11 @@ fclose($file);
 echo "Log creado con:".$ContadorRegistro." registros.";
 
 
-///sites/{Site_id}/categories
-///categories/{Category_id}
-
-/*
-Cómo parte de nuestras tareas en soporte, tenemos la necesidad de consultar
-información masivamente. Para poder agilizar estas tareas necesitamos construir un
-script que nos permita realizar la siguiente tarea:
-1. Recorrer todos los ítems publicados por el seller_id = 179571326 del
-site_id = "MLA"
-2. Generar un archivo de LOG que contenga los siguientes datos de
-cada ítem:
-a. " id " del ítem, " title " del item, " category_id " donde está
-publicado, " name " de la categoría.
-(*) Usar como ayuda el siguiente site http://developers.mercadolibre.com/
-● Tu tarea consiste en: construir el script en cualquier lenguaje de
-programación para realizar lo anteriormente solicitado. Hacerlo de forma
-genérica para poder re-utilizarlo con uno o múltiples users como entrada.
-● En el caso que no puedas resolverlo en algún lenguaje de programación,
-detallar todas las APIs que encontraste y armar la estructura en
-pseudocódigo.
-Algunos requisitos:
-● El script debe estar subido a una cuenta de github para que todos podamos
-descargarlo (pasar link).
-● Debe tener documentación explicando como usarlo.
-● Subir el file de output generado por el script
- *  */
 
 ?>
 
 
 
-<html>
-
-    
-</html>
 
 
 
